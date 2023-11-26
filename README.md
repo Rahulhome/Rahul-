@@ -1,3 +1,3 @@
 # Rahul-
-My first repository
+My first repository.
 Author Rahul Tripathi
